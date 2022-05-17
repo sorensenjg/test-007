@@ -1,5 +1,5 @@
 ---
-version: v3.0.0
+version: v3.0.1
 key: ontology
 id: ontology-index
 slug: /docs/omc
