@@ -26,9 +26,7 @@ associated vocabulary.
 The documentation for the Ontology includes two types of documents:
 <ul>
  	<li>Conceptual documents describing the Ontology, which are navigable online and
-available as <a href="../resources/pdf" target="_blank" rel="noopener">PDFs</a>, covering the following areas:<strong><a href="../docs/omc/overview/need" target="_blank" rel="noopener">Part 1: Overview</a></strong><strong><a href="../docs/omc/context/introduction" target="_blank" rel="noopener">Part 2: Context</a></strong><strong><a href="../docs/omc/assets/introduction" target="_blank" rel="noopener">Part 3: Assets</a></strong>
-
-<strong><a href="../docs/omc/assets/camera" target="_blank" rel="noopener">Part 3A: Camera Metadata</a></strong>
+available as <a href="../resources/pdf" target="_blank" rel="noopener">PDFs</a>, covering the following areas:<strong><a href="../docs/omc/overview/need" target="_blank" rel="noopener">Part 1: Overview</a></strong><strong><a href="../docs/omc/context/introduction" target="_blank" rel="noopener">Part 2: Context</a></strong><strong><a href="../docs/omc/assets/introduction" target="_blank" rel="noopener">Part 3: Assets</a></strong><strong><a href="../docs/omc/assets/camera" target="_blank" rel="noopener">Part 3A: Camera Metadata</a></strong>
 
 <strong><a href="../docs/omc/participants/introduction" target="_blank" rel="noopener">Part 4: Participants</a></strong>
 
