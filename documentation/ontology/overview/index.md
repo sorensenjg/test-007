@@ -2,7 +2,7 @@
 key: ontology
 id: ontology-index
 slug: /docs/omc
-weight: 12
+weight: 0
 
 ---
 # Overview of Documentation and Resources
