@@ -1,4 +1,4 @@
-ontology<h1>Overview of Documentation and Resources</h1>
+---\n key:ontology---\n<h1>Overview of Documentation and Resources</h1>
 <h2>Ontology for Media Creation</h2>
 <p><strong>Welcome to the MovieLabs Ontology for Media Creation Documentation and Resources
 website.</strong></p>
