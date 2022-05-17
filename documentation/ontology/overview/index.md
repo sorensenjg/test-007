@@ -1,11 +1,3 @@
-<hr />
-
-key: "ontology"
-id: "ontology-index"
-slug: "/docs/omc"
-weight: 0
-title: "Ontology"
-<h2>subtitle: "Ontology for Media Creation - Documentation and Resources"</h2>
 <h1>Overview of Documentation and Resources</h1>
 <h2>Ontology for Media Creation</h2>
 <strong>Welcome to the MovieLabs Ontology for Media Creation Documentation and Resources
@@ -34,11 +26,7 @@ associated vocabulary.
 The documentation for the Ontology includes two types of documents:
 <ul>
  	<li>Conceptual documents describing the Ontology, which are navigable online and
-available as <a href="../resources/pdf" target="_blank" rel="noopener">PDFs</a>, covering the following areas:<strong><a href="../docs/omc/overview/need" target="_blank" rel="noopener">Part 1: Overview</a></strong>
-
-<strong><a href="../docs/omc/context/introduction" target="_blank" rel="noopener">Part 2: Context</a></strong>
-
-<strong><a href="../docs/omc/assets/introduction" target="_blank" rel="noopener">Part 3: Assets</a></strong>
+available as <a href="../resources/pdf" target="_blank" rel="noopener">PDFs</a>, covering the following areas:<strong><a href="../docs/omc/overview/need" target="_blank" rel="noopener">Part 1: Overview</a></strong><strong><a href="../docs/omc/context/introduction" target="_blank" rel="noopener">Part 2: Context</a></strong><strong><a href="../docs/omc/assets/introduction" target="_blank" rel="noopener">Part 3: Assets</a></strong>
 
 <strong><a href="../docs/omc/assets/camera" target="_blank" rel="noopener">Part 3A: Camera Metadata</a></strong>
 
