@@ -1,4 +1,8 @@
 ---
+key: ontology
+id: ontology-index
+slug: /docs/omc
+weight: 0
 
 ---
 # Overview of Documentation and Resources
