@@ -1,6 +1,6 @@
---- 
- key: weight
- --- 
+---
+
+---
 # Overview of Documentation and Resources
 ## Ontology for Media Creation
 **Welcome to the MovieLabs Ontology for Media Creation Documentation and Resources
