@@ -43,9 +43,7 @@ Contents
 
 This document describes the process, challenges, and caveats for converting Microsoft Word files (.docx) created with the MovieLabs documentation template \[link\] to Markdown (.md) files to display them in an online format on &lt;https://mc.movielabs.com&gt;.
 
-![A screenshot of a computer
-
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/05/a-screenshot-of-a-computer-description-automatica-21.png)
+![A screenshot of a computer Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/05/a-screenshot-of-a-computer-description-automatica-21.png)
 
 # Assumptions
 
