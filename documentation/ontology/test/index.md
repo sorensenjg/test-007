@@ -1,9 +1,9 @@
 ---
 version: v..
-key: 
-id: 
-slug: 
-weight: 
+key: test
+id: test-doc
+slug: test-document
+weight: 3
 
 ---
  Converting Microsoft Word documents to Markdown
