@@ -13,81 +13,81 @@ weight:
 
  Contents
 
-[1 Introduction 4](#post-1965-%5FToc90453895) 
+[1 Introduction 4](#post-2342-%5FToc90453895) 
 
-[2 The Ontology Behind the Visual Language 5](#post-1965-%5FToc90453896) 
+[2 The Ontology Behind the Visual Language 5](#post-2342-%5FToc90453896) 
 
-[3 Primary Use Cases 7](#post-1965-%5FToc90453897) 
+[3 Primary Use Cases 7](#post-2342-%5FToc90453897) 
 
-[4 Key Workflow Components 8](#post-1965-%5FToc90453898) 
+[4 Key Workflow Components 8](#post-2342-%5FToc90453898) 
 
-[4.1 Assets 9](#post-1965-%5FToc90453899) 
+[4.1 Assets 9](#post-2342-%5FToc90453899) 
 
-[4.2 Tasks 11](#post-1965-%5FToc90453900) 
+[4.2 Tasks 11](#post-2342-%5FToc90453900) 
 
-[4.3 Participants 13](#post-1965-%5FToc90453901) 
+[4.3 Participants 13](#post-2342-%5FToc90453901) 
 
-[4.4 Contexts 15](#post-1965-%5FToc90453902) 
+[4.4 Contexts 15](#post-2342-%5FToc90453902) 
 
-[4.5 Infrastructure 18](#post-1965-%5FToc90453903) 
+[4.5 Infrastructure 18](#post-2342-%5FToc90453903) 
 
-[4.6 Thing Shape 23](#post-1965-%5FToc90453904) 
+[4.6 Thing Shape 23](#post-2342-%5FToc90453904) 
 
-[4.7 N Shapes 23](#post-1965-%5FToc90453905) 
+[4.7 N Shapes 23](#post-2342-%5FToc90453905) 
 
-[5 The Meaning of Lines 25](#post-1965-%5FToc90453906) 
+[5 The Meaning of Lines 25](#post-2342-%5FToc90453906) 
 
-[5.2 Flow 26](#post-1965-%5FToc90453907) 
+[5.2 Flow 26](#post-2342-%5FToc90453907) 
 
-[5.3 Messages 30](#post-1965-%5FToc90453908) 
+[5.3 Messages 30](#post-2342-%5FToc90453908) 
 
-[5.4 Data movement 31](#post-1965-%5FToc90453909) 
+[5.4 Data movement 31](#post-2342-%5FToc90453909) 
 
-[5.5 API Calls 32](#post-1965-%5FToc90453910) 
+[5.5 API Calls 32](#post-2342-%5FToc90453910) 
 
-[5.6 Data Communications Links 32](#post-1965-%5FToc90453911) 
+[5.6 Data Communications Links 32](#post-2342-%5FToc90453911) 
 
-[5.7 Associations 33](#post-1965-%5FToc90453912) 
+[5.7 Associations 33](#post-2342-%5FToc90453912) 
 
-[5.8 Example uses of lines 36](#post-1965-%5FToc90453913) 
+[5.8 Example uses of lines 36](#post-2342-%5FToc90453913) 
 
-[6 Drawing constructs and annotations 37](#post-1965-%5FToc90453914) 
+[6 Drawing constructs and annotations 37](#post-2342-%5FToc90453914) 
 
-[6.1 Annotations 37](#post-1965-%5FToc90453915) 
+[6.1 Annotations 37](#post-2342-%5FToc90453915) 
 
-[6.2 Keys and Titles 37](#post-1965-%5FToc90453916) 
+[6.2 Keys and Titles 37](#post-2342-%5FToc90453916) 
 
-[6.3 Expanded Views 37](#post-1965-%5FToc90453917) 
+[6.3 Expanded Views 37](#post-2342-%5FToc90453917) 
 
-[Appendix A Labels 39](#post-1965-%5FToc90453918) 
+[Appendix A Labels 39](#post-2342-%5FToc90453918) 
 
-[A.1 Asset Labels 39](#post-1965-%5FToc90453919) 
+[A.1 Asset Labels 39](#post-2342-%5FToc90453919) 
 
-[A.2 Task Labels 40](#post-1965-%5FToc90453920) 
+[A.2 Task Labels 40](#post-2342-%5FToc90453920) 
 
-[A.3 Participant Labels 40](#post-1965-%5FToc90453921) 
+[A.3 Participant Labels 40](#post-2342-%5FToc90453921) 
 
-[A.4 Context Labels 43](#post-1965-%5FToc90453922) 
+[A.4 Context Labels 43](#post-2342-%5FToc90453922) 
 
-[A.5 Infrastructure Labels 46](#post-1965-%5FToc90453923) 
+[A.5 Infrastructure Labels 46](#post-2342-%5FToc90453923) 
 
-[Appendix B Best Practices 49](#post-1965-%5FToc90453924) 
+[Appendix B Best Practices 49](#post-2342-%5FToc90453924) 
 
-[B.1 Layout Practices 49](#post-1965-%5FToc90453925) 
+[B.1 Layout Practices 49](#post-2342-%5FToc90453925) 
 
-[B.2 Using Fixed Canvas Sizes 50](#post-1965-%5FToc90453926) 
+[B.2 Using Fixed Canvas Sizes 50](#post-2342-%5FToc90453926) 
 
-[B.3 Shape Sizes 50](#post-1965-%5FToc90453927) 
+[B.3 Shape Sizes 50](#post-2342-%5FToc90453927) 
 
-[B.4 Icon Sizes 54](#post-1965-%5FToc90453928) 
+[B.4 Icon Sizes 54](#post-2342-%5FToc90453928) 
 
-[B.5 Showing Context in a Workflow 56](#post-1965-%5FToc90453929) 
+[B.5 Showing Context in a Workflow 56](#post-2342-%5FToc90453929) 
 
-[B.6 Creating Custom Themes or Diagrams 57](#post-1965-%5FToc90453930) 
+[B.6 Creating Custom Themes or Diagrams 57](#post-2342-%5FToc90453930) 
 
-[Appendix C Visual Language Depiction of Ontology Relationships 60](#post-1965-%5FToc90453931) 
+[Appendix C Visual Language Depiction of Ontology Relationships 60](#post-2342-%5FToc90453931) 
 
-[Appendix D Visual Language Summary 62](#post-1965-%5FToc90453932) 
+[Appendix D Visual Language Summary 62](#post-2342-%5FToc90453932) 
 
  This document is intended as a guide for companies developing or implementing products, solutions, or services for the future of media creation. No effort is made by Motion Picture Laboratories, Inc. to obligate any market participant to adhere to the recommendations in this document. Whether to adopt these recommendations in whole or in part is left to the discretion of individual market participants, using independent business judgment. Each MovieLabs member company shall decide independently the extent to which it will utilize, or require adherence to, these recommendations. All questions on member company adoption or implementation must be directed independently to each member company.
 
@@ -127,7 +127,7 @@ weight:
 
 # The Ontology Behind the Visual Language
 
- The elements depicted in the Visual Language are supported by the MovieLabs Ontology for Media Creation (OMC),[\[1\]](#post-1965-footnote-2) which we developed for improving communication, interoperability, and automation of production workflows as part of the MovieLabs 2030 Vision project.[\[2\]](#post-1965-footnote-3) The ontology groups workflow elements into general categories including tasks, assets, participants (e.g., organizations, departments, people), contexts (e.g., scenes, shots), infrastructure, and the relationships between them. It also provides some more detailed categories (e.g., image vs. audiovisual assets) and defined terms for many more specific elements.![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image.png) 
+ The elements depicted in the Visual Language are supported by the MovieLabs Ontology for Media Creation (OMC),[\[1\]](#post-2342-footnote-2) which we developed for improving communication, interoperability, and automation of production workflows as part of the MovieLabs 2030 Vision project.[\[2\]](#post-2342-footnote-3) The ontology groups workflow elements into general categories including tasks, assets, participants (e.g., organizations, departments, people), contexts (e.g., scenes, shots), infrastructure, and the relationships between them. It also provides some more detailed categories (e.g., image vs. audiovisual assets) and defined terms for many more specific elements.![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-128.png) 
 
  Figure ‑ Ontology for Media Creation
 
@@ -155,7 +155,7 @@ weight:
 
  The following is a workflow diagram for a finishing process which we will use as an example:
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-1.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-129.png) 
 
  Figure ‑ Finishing Workflow
 
@@ -183,7 +183,7 @@ weight:
 
 ![Text
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/text-description-automatically-generated.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/text-description-automatically-generated-5.png) 
 
  Figure ‑ The primary Visual Language shapes
 
@@ -201,7 +201,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ![Text
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/text-description-automatically-generated-1.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/text-description-automatically-generated-6.png) 
 
  Figure ‑ Asset shape
 
@@ -215,19 +215,19 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ![Icon
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/icon-description-automatically-generated.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/icon-description-automatically-generated-1.png) 
 
  Figure ‑ Image icon
 
  When the image icon is used in the asset shape to visually identify the nature of the asset, it may be necessary to add text to qualify what sort of image it is. Other icons are a composite of two primitive icons. For example, the icon for an audio-visual asset is the combination of the image icon and the audio icon.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-2.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-130.png) 
 
  Figure ‑ Composite icon
 
  The current set of asset icons are:
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-3.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-131.png) 
 
  Figure ‑ Asset icons
 
@@ -245,7 +245,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
  The icons provided above should be used when the asset meets the definition, unless a more specific visual depiction is needed. Assets that are not covered by the current icon set can be depicted with the basic shape and a user-provided label or a user provided icon, or both. 
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-4.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-132.png) 
 
  Figure ‑ Three ways to show an asset when there is no appropriate icon
 
@@ -257,7 +257,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ### Example Use of Asset Shapes, Labels, and Icons
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-5.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-133.png) 
 
  Figure ‑ Example workflow with assets and asset icons emphasized
 
@@ -269,11 +269,11 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ### Task Shape
 
- The Task shape is a symmetrical trapezoid[\[3\]](#post-1965-footnote-4) on its side with rounded corners.
+ The Task shape is a symmetrical trapezoid[\[3\]](#post-2342-footnote-4) on its side with rounded corners.
 
 ![Text
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/text-description-automatically-generated-2.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/text-description-automatically-generated-7.png) 
 
  Figure ‑ Task shape
 
@@ -285,7 +285,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
  In the first version of the Visual Language there are no icons for tasks which must be depicted using the basic task shape and a user-provided label.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-6.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-134.png) 
 
  Figure ‑ A set of tasks depicted using task shape and user provided labels
 
@@ -295,7 +295,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ### Example Use of Task Shapes and Labels
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-7.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-135.png) 
 
  Figure ‑ Example workflow with task shapes emphasized
 
@@ -303,7 +303,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 **Participant**: The people, organizations, or services that are responsible for the production of the Creative Work.
 
- People are the individuals that are contracted or employed to perform given tasks on a production. Organizations are groups of people or legal entities with a particular purpose relative to the production. Services are computer driven agents that can perform tasks given the proper context and structured data input.[\[4\]](#post-1965-footnote-5) 
+ People are the individuals that are contracted or employed to perform given tasks on a production. Organizations are groups of people or legal entities with a particular purpose relative to the production. Services are computer driven agents that can perform tasks given the proper context and structured data input.[\[4\]](#post-2342-footnote-5) 
 
 ### Participant Shape
 
@@ -311,7 +311,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ![Text
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/text-description-automatically-generated-3.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/text-description-automatically-generated-8.png) 
 
  Figure ‑ Participant shape
 
@@ -323,7 +323,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ![Shape
 
-Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/shape-description-automatically-generated-with-me.png) 
+Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/shape-description-automatically-generated-with-me-1.png) 
 
  Figure ‑ Participant Icons
 
@@ -343,13 +343,13 @@ Description automatically generated with medium confidence](http://movielabs-api
 
 ![Shape
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/shape-description-automatically-generated.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/shape-description-automatically-generated-2.png) 
 
  Figure ‑ Example of use of participant labels
 
 ### Example Use of Participants Shapes, Icons, and Labels
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-8.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-136.png) 
 
  Figure ‑ Example workflow with participants emphasized
 
@@ -369,7 +369,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ![Text
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/text-description-automatically-generated-4.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/text-description-automatically-generated-9.png) 
 
  Figure ‑ Context shape
 
@@ -379,7 +379,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
  The Visual Language icons allow for the identification the intrinsic nature of a context, as opposed to its use. The current set of context icons are:
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-9.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-137.png) 
 
  Figure ‑ Context icons 
 
@@ -412,13 +412,13 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ### Example Use of Context Shape, Label, and Icon
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-10.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-138.png) 
 
  Figure ‑ Example workflow with context shape and icon emphasized
 
 ## Infrastructure
 
- While some things, such as a network, are obviously infrastructure, other things such as a transcode service may or may not be infrastructure depending on the context and the choice of the individual author. Infrastructure is a layered concept. At the top is software[\[5\]](#post-1965-footnote-6) doing something and at the bottom is a collection of silicon chips attached to circuit boards powered by electricity. 
+ While some things, such as a network, are obviously infrastructure, other things such as a transcode service may or may not be infrastructure depending on the context and the choice of the individual author. Infrastructure is a layered concept. At the top is software[\[5\]](#post-2342-footnote-6) doing something and at the bottom is a collection of silicon chips attached to circuit boards powered by electricity. 
 
 **Infrastructure**: The underlying systems and framework required for the production of the Creative Work; it is generally not specific to a particular Creative Work.
 
@@ -428,7 +428,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ![Shape, rectangle, square
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/shape-rectangle-square-description-automaticall.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/shape-rectangle-square-description-automaticall-1.png) 
 
  Figure ‑ Infrastructure shape
 
@@ -438,7 +438,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
  The Visual Language icons allow for the identification the intrinsic nature of a piece of infrastructure, as opposed to its use. The current set of infrastructure icons are:
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-11.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-139.png) 
 
  Figure ‑ Infrastructure icons
 
@@ -478,7 +478,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ### Example Use of Infrastructure Shape, Label, and Icon
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-12.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-140.png) 
 
  Figure ‑ Example workflow with infrastructure shapes emphasized
 
@@ -492,7 +492,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ![Table
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/table-description-automatically-generated.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/table-description-automatically-generated-1.png) 
 
  Figure ‑ Message bus shape
 
@@ -500,9 +500,9 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ### Security
 
- The security architecture consists of services which are represented by the infrastructure shape except for the following services.[\[6\]](#post-1965-footnote-7) 
+ The security architecture consists of services which are represented by the infrastructure shape except for the following services.[\[6\]](#post-2342-footnote-7) 
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-13.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-141.png) 
 
  Figure ‑ Security Icons
 
@@ -510,7 +510,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
  In some instances, it is useful to add something to a diagram where other shapes in the visual language are not suitable. One example is where an element of a diagram is not well enough defined and would be replaced later with something more specific. The Thing shape, a non-specific shape, can be used in those circumstances.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-14.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-142.png) 
 
  Figure ‑ Thing shape
 
@@ -522,7 +522,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
  There are points in a workflow where you can’t determine the number of tasks, assets, context, participants, and infrastructure until you are a given point. For example, the number of encoding tasks in a dailies workflow can’t be determined until the task properties are populated. For this case, we use the n version of the shape. The cardinality is indicated on the lines. 
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-15.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-143.png) 
 
  Figure ‑ N shape
 
@@ -535,7 +535,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 * The shape at the end on the line (arrowhead) conveys the primary meaning
 * The line being solid, dashed or dotted conveys secondary meaning
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-16.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-144.png) 
 
  Figure ‑ Types of arrowheads and lines
 
@@ -552,7 +552,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
  Other arrowheads and line types are reserved either for future use or to avoid ambiguity.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-17.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-145.png) 
 
  Figure ‑ Reserved arrowheads and lines
 
@@ -568,13 +568,13 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ![Shape
 
-Description automatically generated with low confidence](http://movielabs-api.test/wp-content/uploads/2022/06/shape-description-automatically-generated-with-lo.png) 
+Description automatically generated with low confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/shape-description-automatically-generated-with-lo-2.png) 
 
  Figure ‑ Flow arrowhead
 
  In its simplest form, flow is a way of connecting components with directionality (both unidirectional and bidirectional). 
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-18.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-146.png) 
 
  Figure ‑ Types of flow representations
 
@@ -588,21 +588,21 @@ Description automatically generated with low confidence](http://movielabs-api.te
 
  When flow is from one element to more than one other element, the arrangement of the lines has significance.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-19.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-147.png) 
 
- Figure ‑ (a) One to one (unicast) and (b) one to many (multicast) flows[\[7\]](#post-1965-footnote-8) 
+ Figure ‑ (a) One to one (unicast) and (b) one to many (multicast) flows[\[7\]](#post-2342-footnote-8) 
 
  Figure 5‑5 illustrates different ways of showing flow from one thing to more than one other thing. In Figure 5‑5(a), the flow from Thing X to Thing A, Thing B and Thing C are independent of each other, and they could be of a different type. In Figure 5‑5(b), the flow from Thing X to Thing A, Thing B and Thing C is the same.
 
  In Figure 5‑5, the flows can be bidirectional (see Figure 5‑4) however if the flows in Figure 5‑5(b) are bidirectional, the result is clearer if it is drawn as:
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-20.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-148.png) 
 
  Figure ‑ Multi-way flow
 
  To represent flow which is guidance or influence as to how a task is to be conducted. The guidance/influence line is a dashed line with a solid arrow. For example, the creative vision of the director is made manifest in editorial. 
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-21.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-149.png) 
 
  Figure ‑ Guidance or influence
 
@@ -614,7 +614,7 @@ Description automatically generated with low confidence](http://movielabs-api.te
 
  Flows may have points where the flow cannot proceed until an event has happened. For this, we use a conditional node where a condition is evaluated, and the flow progresses accordingly. It is not a task itself; it is the assessment of the state after a task or series of tasks. Figure 5‑8 shows some examples. 
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-22.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-150.png) 
 
  Figure ‑ Examples of decision points
 
@@ -634,13 +634,13 @@ _Non-blocking Convergence_ is a point where several flows converge, and flow can
 
  To represent convergence, we borrow the “summing junction” and “or” shapes from traditional flowcharts.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-23.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-151.png) 
 
  Figure ‑ Blocking convergence
 
  In the blocking flow, the next activity cannot start until activities X, Y, and Z have completed.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-24.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-152.png) 
 
  Figure ‑ Non-blocking convergence 
 
@@ -658,7 +658,7 @@ _Non-blocking Convergence_ is a point where several flows converge, and flow can
 
 ![Shape
 
-Description automatically generated with low confidence](http://movielabs-api.test/wp-content/uploads/2022/06/shape-description-automatically-generated-with-lo-1.png) 
+Description automatically generated with low confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/shape-description-automatically-generated-with-lo-3.png) 
 
  Figure ‑ Message arrowhead
 
@@ -668,7 +668,7 @@ Description automatically generated with low confidence](http://movielabs-api.te
 * The response line has the half arrowhead below a horizontal message line or to the left of a vertical message line
 * A message line can be double ended and the convention of orientation of the arrows should be followed
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-25.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-153.png) 
 
  Figure ‑ Message representations
 
@@ -688,13 +688,13 @@ _Data movement_ is the movement of data from one location to another. The moveme
 
  The data movement line is a solid line with a wide unfilled arrowhead, it indicates the movement of data from one place to another. The arrowhead must be wider than the flow arrow to avoid confusion if the diagramming application does not provide open arrowheads.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-26.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-154.png) 
 
  Figure ‑ Data movement arrowhead
 
  As with flow, a doubled ended data movement line means the same type of data moves in both directions. If a different type of data moves one way than the other, two lines should be used.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-27.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-155.png) 
 
  Figure ‑ Data movement
 
@@ -702,7 +702,7 @@ _Information movement_ is the transfer of information that is not data or metada
 
  The information input line is a data movement line that is dotted.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-28.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-156.png) 
 
  Figure ‑ Information movement
 
@@ -712,7 +712,7 @@ _Information movement_ is the transfer of information that is not data or metada
 
 ![Graphical user interface, application
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/graphical-user-interface-application-description.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/graphical-user-interface-application-description-2.png) 
 
  Figure ‑ API Call
 
@@ -722,7 +722,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
  Diagrams that show infrastructure may need to show data communications links. The data communications link line is a solid line with unfilled diamonds at both ends. 
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-29.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-157.png) 
 
  Figure ‑ Data communications link
 
@@ -740,13 +740,13 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ![Graphical user interface, application
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/graphical-user-interface-application-description-1.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/graphical-user-interface-application-description-3.png) 
 
  Figure ‑ Association connector
 
  This construct is used, for example, in Figure 5‑19 to indicate that the five participants take part in the task. 
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-30.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-158.png) 
 
  Figure ‑ Association connector example
 
@@ -754,7 +754,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
  Another example of the use of the association connector is when infrastructure is represented in a diagram and is associated only with specific elements as is shown in Figure 5-19 where tasks 1, 2 and 3 use cloud A and task 4 uses cloud B.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-31.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-159.png) 
 
  Figure ‑ Association of tasks with infrastructure components
 
@@ -773,7 +773,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
  An informal bound is used to group items where the grouping is more general in nature. For example, it groups together elements that are part of post-production. 
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-32.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-160.png) 
 
  Figure ‑ Boundaries
 
@@ -781,15 +781,15 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 _Recommended practice: To distinguish a group from other_ lines in the diagram, the recommended practice is to use thicker lines of a lighter tone for groups and place the group shape behind all other shapes in the diagram.
 
- As noted above, there is no requirement for a boundary to be rectangular, but the corners must be right angles (and not radiused), and the lines horizontal or vertical.[\[8\]](#post-1965-footnote-9) 
+ As noted above, there is no requirement for a boundary to be rectangular, but the corners must be right angles (and not radiused), and the lines horizontal or vertical.[\[8\]](#post-2342-footnote-9) 
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-33.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-161.png) 
 
  Figure ‑ Example of a non-rectangular boundary 
 
 ## Example uses of lines
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-34.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-162.png) 
 
  Figure ‑ Example workflow with lines emphasized
 
@@ -802,7 +802,7 @@ _Recommended practice: To distinguish a group from other_ lines in the diagram, 
 * The callout line has an open arrowhead on one end
 * The callout text is in italics
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-35.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-163.png) 
 
  Figure ‑ Callout 
 
@@ -812,7 +812,7 @@ _Recommended practice: To distinguish a group from other_ lines in the diagram, 
 
  Diagrams also need keys and titles as shown in Figure 6‑2.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-36.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-164.png) 
 
  Figure ‑ Diagram key and title
 
@@ -820,7 +820,7 @@ _Recommended practice: To distinguish a group from other_ lines in the diagram, 
 
  In many cases the subject of a diagram has details that are not shown. For example, many tasks process OCF including dailies. It may not be necessary for the purpose of a particular diagram to show all the tasks that make up dailies, and instead it is represented as a single task, However, it may be required to show those sub-tasks or the presence of those subtasks.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-37.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-165.png) 
 
  Figure ‑ Expanded and contracted views
 
@@ -844,26 +844,26 @@ _Recommended practice: To distinguish a group from other_ lines in the diagram, 
 
  The following a list of asset labels and icons if appropriate:
 
-| **Asset Labels**            | **Icon**                                                                    | **Definition**                                                                                                                                                       |
-| --------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Image                       | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-38.png) | A representation of a 2-dimensional picture.                                                                                                                         |
-| Digital Image               | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-39.png) | A 2-dimensional picture stored digitally with values representing color, depth (distance from the point of capture), and alpha (transparency) at given pixels (x, y) |
-| Analog Image                | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-40.png) | A 2-dimensional pictured stored in an analog form such a drawing on paper, an image on 35mm film.                                                                    |
-| Moving Image                | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-41.png) | A temporally ordered sequence of images.                                                                                                                             |
-| Analog Moving Image         | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-42.png) | A temporally ordered sequence of Analog Images                                                                                                                       |
-| Digital Moving Image        | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-43.png) | A temporally ordered sequence of Digital Images.                                                                                                                     |
-| Audio                       | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-44.png) | A representation of sound.                                                                                                                                           |
-| Analog Audio                | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-45.png) | Sound stored as a continuous waveform.                                                                                                                               |
-| Digital Audio               | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-46.png) | Sound stored as a set of digital values                                                                                                                              |
-| Audio Visual                | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-47.png) | A Moving Image with Audio synchronized to the images.                                                                                                                |
-| Analog Audio Visual         | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-48.png) | An Analog Moving Image with synchronized Analog Audio.                                                                                                               |
-| Digital Audio Visual        | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-49.png) | A temporally ordered sequence of Digital Images with synchronized Digital Audio                                                                                      |
-| Document                    | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-50.png) | A human readable object containing text and/or images.                                                                                                               |
-| Analog Document             | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-51.png) | A document stored in an analog form such as on paper.                                                                                                                |
-| Digital Document            | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-52.png) | A document stored in a digital form such as a PDF file.                                                                                                              |
-| Structured Document         | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-53.png) | A Document structured according to a set of rules which are used to parse or understand the document.                                                                |
-| Analog Structured Document  | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-54.png) | A structured document stored in an analog form such as on paper.                                                                                                     |
-| Digital Structured Document | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-55.png) | A structured document stored in a digital form such as a PDF file.                                                                                                   |
+| **Asset Labels**            | **Icon**                                                                                              | **Definition**                                                                                                                                                       |
+| --------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Image                       | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-166.png) | A representation of a 2-dimensional picture.                                                                                                                         |
+| Digital Image               | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-167.png) | A 2-dimensional picture stored digitally with values representing color, depth (distance from the point of capture), and alpha (transparency) at given pixels (x, y) |
+| Analog Image                | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-168.png) | A 2-dimensional pictured stored in an analog form such a drawing on paper, an image on 35mm film.                                                                    |
+| Moving Image                | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-169.png) | A temporally ordered sequence of images.                                                                                                                             |
+| Analog Moving Image         | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-170.png) | A temporally ordered sequence of Analog Images                                                                                                                       |
+| Digital Moving Image        | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-171.png) | A temporally ordered sequence of Digital Images.                                                                                                                     |
+| Audio                       | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-172.png) | A representation of sound.                                                                                                                                           |
+| Analog Audio                | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-173.png) | Sound stored as a continuous waveform.                                                                                                                               |
+| Digital Audio               | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-174.png) | Sound stored as a set of digital values                                                                                                                              |
+| Audio Visual                | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-175.png) | A Moving Image with Audio synchronized to the images.                                                                                                                |
+| Analog Audio Visual         | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-176.png) | An Analog Moving Image with synchronized Analog Audio.                                                                                                               |
+| Digital Audio Visual        | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-177.png) | A temporally ordered sequence of Digital Images with synchronized Digital Audio                                                                                      |
+| Document                    | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-178.png) | A human readable object containing text and/or images.                                                                                                               |
+| Analog Document             | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-179.png) | A document stored in an analog form such as on paper.                                                                                                                |
+| Digital Document            | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-180.png) | A document stored in a digital form such as a PDF file.                                                                                                              |
+| Structured Document         | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-181.png) | A Document structured according to a set of rules which are used to parse or understand the document.                                                                |
+| Analog Structured Document  | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-182.png) | A structured document stored in an analog form such as on paper.                                                                                                     |
+| Digital Structured Document | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-183.png) | A structured document stored in a digital form such as a PDF file.                                                                                                   |
 
 * 1. Task Labels
 
@@ -891,127 +891,127 @@ _Recommended practice: To distinguish a group from other_ lines in the diagram, 
 
  The following is a list of Participant Labels:
 
-| **Standard Participant Label** | **Icon**                                                                                                                                                                            | **Definition**                                                                                                                                               |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Director                       | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with.png)    | People are the individuals that are associated with the production.                                                                                          |
-| First Assistant Director       | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-1.png)  | Person who leads the production of motion pictures and sets whatever is heard or seen in the final film.                                                     |
-| Producer                       | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-2.png)  | Person that organizes the pre-production preparation and the flow of production activity on-set.                                                             |
-| Showrunner                     | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-3.png)  | Person who makes key decisions for the Creative Work on behalf of the studio or broadcaster.                                                                 |
-| Actor                          | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-4.png)  | Person who portrays a Character.                                                                                                                             |
-| Voice Actor                    | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-5.png)  | Person who records primary dialogue for a character in the script, often in animated works                                                                   |
-| Screenwriter                   | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-6.png)  | Person that develops the story either through adapting original written works or creating a new screenplay.                                                  |
-| Editor                         | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-7.png)  | Person that works with the director and Producer to edit the final cut of the creative work.                                                                 |
-| Director of Photography        | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-8.png)  | Person responsible for all the elements that affect what the camera is able to capture (i.e., lighting, composition, exposure, etc.).                        |
-| Composer                       | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-9.png)  | Person that creates the musical score that accompanies the production.                                                                                       |
-| Sound Mixer                    | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-10.png) | Person that records, dubs, synchronizes, and scores sound in a production.                                                                                   |
-| VFX Supervisor                 | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-11.png) | Person responsible for achieving the creative aims of the director/producers of a project through the use of Visual Effects.                                 |
-| Production Designer            | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-12.png) | Person that creates and develops the overall look, atmosphere and emotion that move the story.                                                               |
-| Set Designer                   | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-13.png) | Person that architects the structures or spaces required by the production designer.                                                                         |
-| Casting Director               | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-14.png) | Person that collaborates with producers, directors, network, and studios executives to cast the talent per role.                                             |
-| Stunt Coordinator              | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-15.png) | Person that creates and engineers stunts and hires the stunt performers.                                                                                     |
-| _Camera Department_            | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-16.png) | Organization responsible for setting up and operating the cameras during a production.                                                                       |
-| _Camera Unit_                  | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-17.png) | Organization responsible for shooting some element of a Scene, e.g., a Main Unit or Second Unit.                                                             |
-| _Costume Department_           | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-18.png) | Organization responsible for all of the clothing and costumes worn by the cast in a production.                                                              |
-| _Editorial Department_         | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-19.png) | Organization responsible for the artistic assembly of the Creative Work working with the director and producers.                                             |
-| _Visual Effects_               | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-20.png) | Organization responsible for the creation and manipulation of image data to add or remove objects, environments, characters, and effects to a creative work. |
-| _Production Office_            | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-21.png) | Organization responsible for all of the administrative and management tasks in a production.                                                                 |
-| _Archive_                      | ![Diagram Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-22.png) | Organization that provides preservation of and access to digital and physical assets.                                                                        |
-| _Encoding_                     | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-56.png)                                                                                                         | Service to compress, index, encrypt and package media assets.                                                                                                |
-| _Transfer_                     | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-57.png)                                                                                                         | Service to move or copy media assets between locations.                                                                                                      |
-| _Rendering_                    | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-58.png)                                                                                                         | Service to process content creation setups (2D and 3D) to deliver image assets.                                                                              |
+| **Standard Participant Label** | **Icon**                                                                                                                                                                                                     | **Definition**                                                                                                                                               |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Director                       | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-23.png) | People are the individuals that are associated with the production.                                                                                          |
+| First Assistant Director       | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-24.png) | Person who leads the production of motion pictures and sets whatever is heard or seen in the final film.                                                     |
+| Producer                       | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-25.png) | Person that organizes the pre-production preparation and the flow of production activity on-set.                                                             |
+| Showrunner                     | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-26.png) | Person who makes key decisions for the Creative Work on behalf of the studio or broadcaster.                                                                 |
+| Actor                          | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-27.png) | Person who portrays a Character.                                                                                                                             |
+| Voice Actor                    | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-28.png) | Person who records primary dialogue for a character in the script, often in animated works                                                                   |
+| Screenwriter                   | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-29.png) | Person that develops the story either through adapting original written works or creating a new screenplay.                                                  |
+| Editor                         | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-30.png) | Person that works with the director and Producer to edit the final cut of the creative work.                                                                 |
+| Director of Photography        | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-31.png) | Person responsible for all the elements that affect what the camera is able to capture (i.e., lighting, composition, exposure, etc.).                        |
+| Composer                       | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-32.png) | Person that creates the musical score that accompanies the production.                                                                                       |
+| Sound Mixer                    | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-33.png) | Person that records, dubs, synchronizes, and scores sound in a production.                                                                                   |
+| VFX Supervisor                 | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-34.png) | Person responsible for achieving the creative aims of the director/producers of a project through the use of Visual Effects.                                 |
+| Production Designer            | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-35.png) | Person that creates and develops the overall look, atmosphere and emotion that move the story.                                                               |
+| Set Designer                   | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-36.png) | Person that architects the structures or spaces required by the production designer.                                                                         |
+| Casting Director               | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-37.png) | Person that collaborates with producers, directors, network, and studios executives to cast the talent per role.                                             |
+| Stunt Coordinator              | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-38.png) | Person that creates and engineers stunts and hires the stunt performers.                                                                                     |
+| _Camera Department_            | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-39.png) | Organization responsible for setting up and operating the cameras during a production.                                                                       |
+| _Camera Unit_                  | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-40.png) | Organization responsible for shooting some element of a Scene, e.g., a Main Unit or Second Unit.                                                             |
+| _Costume Department_           | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-41.png) | Organization responsible for all of the clothing and costumes worn by the cast in a production.                                                              |
+| _Editorial Department_         | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-42.png) | Organization responsible for the artistic assembly of the Creative Work working with the director and producers.                                             |
+| _Visual Effects_               | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-43.png) | Organization responsible for the creation and manipulation of image data to add or remove objects, environments, characters, and effects to a creative work. |
+| _Production Office_            | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-44.png) | Organization responsible for all of the administrative and management tasks in a production.                                                                 |
+| _Archive_                      | ![Diagram Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-with-45.png) | Organization that provides preservation of and access to digital and physical assets.                                                                        |
+| _Encoding_                     | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-184.png)                                                                                                        | Service to compress, index, encrypt and package media assets.                                                                                                |
+| _Transfer_                     | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-185.png)                                                                                                        | Service to move or copy media assets between locations.                                                                                                      |
+| _Rendering_                    | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-186.png)                                                                                                        | Service to process content creation setups (2D and 3D) to deliver image assets.                                                                              |
 
 * 1. Context Labels
 
  The following is a list of Context Labels:
 
-| **Name**                       | **Icon**                                                                                                                                                                                           | **Definition**                                                                                                                                                                                          |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Location                       | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de.png)    | A particular place or position either in either the real world or the narrative world.                                                                                                                  |
-| Narrative Location             | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-1.png)  | A location specified or implied by the narrative.                                                                                                                                                       |
-| Production Location            | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-2.png)  | A real place that is used to depict the Narrative Location or used for creating the production.                                                                                                         |
-| Prop                           | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-59.png)                                                                                                                        | A named object related to or interacting with characters that is implied or understood to be necessary for the narrative.                                                                               |
-| Narrative Prop                 | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-60.png)                                                                                                                        | A Prop as specified or implied by the narrative.                                                                                                                                                        |
-| Production Prop                | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-61.png)                                                                                                                        | A Depiction of the Narrative Prop.                                                                                                                                                                      |
-| Set Dressing                   | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-62.png)                                                                                                                        | Objects used on set to create and enhance the environment.                                                                                                                                              |
-| Narrative Wardrobe             | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-63.png)                                                                                                                        | The clothing for a Character in the narrative.                                                                                                                                                          |
-| Costume                        | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-64.png)                                                                                                                        | The clothing used in a Portrayal of a Character in the production.                                                                                                                                      |
-| Storyboard                     | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-65.png)                                                                                                                        | A series of images that forms a visual representation of some part of the narrative.                                                                                                                    |
-| Animated Storyboard            | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-66.png)                                                                                                                        | A moving image produced from the individual images of a Storyboard.                                                                                                                                     |
-| Creative Reference Material    | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-67.png)                                                                                                                        | Images or other material used to inform the creation of a production element, to help convey a tone or look, etc.                                                                                       |
-| Technical Reference Material   | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-68.png)                                                                                                                        | Images and other material used to inform the execution of the production.                                                                                                                               |
-| Shooting Set                   | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-69.png)                                                                                                                        | A fixed, specified Location for shooting/filming.                                                                                                                                                       |
-| Production Set                 | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-70.png)                                                                                                                        | An environment built for use on a Shooting Set.                                                                                                                                                         |
-| Scene                          | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-71.png)                                                                                                                        | A section of the Script typically defined by a unity of location or time but could be based on a different single narrative context where a montage or multiple locations make up the scene.            |
-| Narrative Scene                | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-72.png)                                                                                                                        | Taken from the narrative itself and traditionally defined by creative intent and typically a unity of time, place, action, or theme.                                                                    |
-| Production Scene               | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-73.png)                                                                                                                        | Defined either by explicit divisions in the structure of the Script, e.g., by a Slugline, or by additional capture for use in the Creative Work that is not tied to any particular Scene in the Script. |
-| Slugline                       | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-74.png)                                                                                                                        | A line within a screenplay written in all uppercase letters to draw attention to specific script information.                                                                                           |
-| Scene Number                   | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-75.png)                                                                                                                        | A number tied to the Slugline when a Script is locked.                                                                                                                                                  |
-| Scene Header                   | Future Version![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-76.png)                                                                                                          | Used when referring to the Production Scene. It is generally synonymous with Slugline and is used to divide a Script into Production Scenes.                                                            |
-| Character                      | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-3.png)  | A sentient entity (usually a person but not always) in the script whose specific identity is consequential to the narrative. A Character is generally identified by a specific name.                    |
-| Concept                        | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-77.png)                                                                                                                        | An exploratory representation of something from the narrative.                                                                                                                                          |
-| Concept Art                    | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-78.png)                                                                                                                        | Images that illustrate ideas for potential depictions of elements of the creative intent.                                                                                                               |
-| Depiction                      | Future Version                                                                                                                                                                                     | The representation of something from a narrative entity by a production entity in the Creative Work, specified or implied by the Script.                                                                |
-| Portrayal                      | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-4.png)  | The Depiction of a Character.                                                                                                                                                                           |
-| Creative Work                  | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-5.png)  | A uniquely identified production.                                                                                                                                                                       |
-| Identifier                     | Future Version                                                                                                                                                                                     | An identifier uniquely identifies an entity within a particular scope.                                                                                                                                  |
-| Slate                          | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-6.png)  | Used to capture key identifying information about what is being recorded on any given setup and take.                                                                                                   |
-| Scene Descriptor               | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-7.png)  | An alphanumeric reference to the Production Scene being recorded.                                                                                                                                       |
-| Setup                          | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-8.png)  | The unique camera configuration which encompasses a cameras geo-location, positioning, lens, or other camera settings.                                                                                  |
-| Take                           | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-9.png)  | A discrete capture event with a specified beginning and end.                                                                                                                                            |
-| Slate UID                      | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-10.png) | An alphanumeric code that uniquely identifies a single clip by combining the Scene Descriptor, Setup, and Take.                                                                                         |
-| Camera Identifier              | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-11.png) | An identifier for the camera responsible for the capture, usually related to the role and responsibility of the group operating it and usually a single upper-case letter starting with A.              |
-| Camera Unit                    | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-12.png) | A group of Participants responsible for shooting some element of a Scene, e.g., Main Unit or Second Unit.                                                                                               |
-| Camera Roll                    | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-13.png) | Identifier for a group of events captured together on the same camera.                                                                                                                                  |
-| Sound Roll                     | ![A picture containing text, receipt, screenshot Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-14.png) | Identifier for a group of audio events captured together on the same recording device.                                                                                                                  |
-| Shoot Date                     | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-79.png)                                                                                                                        | The date of capture.                                                                                                                                                                                    |
-| Shoot Day                      | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-80.png)                                                                                                                        | The number of the day on the shooting schedule.                                                                                                                                                         |
-| Shot                           | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-81.png)                                                                                                                        | A discrete unit of visual narrative with a specified beginning and end.                                                                                                                                 |
-| Sequence                       | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-82.png)                                                                                                                        | An ordered collection of media used to organize units of work.                                                                                                                                          |
-| Editorial Sequence             | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-83.png)                                                                                                                        | A sequence of shots linked to creative intent.                                                                                                                                                          |
-| VFX Shot                       | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-84.png)                                                                                                                        | A Shot that has been identified as requiring VFX work.                                                                                                                                                  |
-| VFX Sequence                   | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-85.png)                                                                                                                        | A unit of work made up of an ordered series of VFX shots.                                                                                                                                               |
-| Animation Shot                 | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-86.png)                                                                                                                        | A Shot that has been identified as requiring Animation work.                                                                                                                                            |
-| Animation Sequence             | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-87.png)                                                                                                                        | A unit of work made up of an ordered series of Animation shots.                                                                                                                                         |
-| Color Sequence                 | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-88.png)                                                                                                                        | A sequence of shots with color grading characteristics linked to creative intent.                                                                                                                       |
-| Sequence Chronology Descriptor | Future Version                                                                                                                                                                                     | Describes how a series of Shots is used to generate a Sequence.                                                                                                                                         |
+| **Name**                       | **Icon**                                                                                                                                                                                                                    | **Definition**                                                                                                                                                                                          |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Location                       | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-15.png) | A particular place or position either in either the real world or the narrative world.                                                                                                                  |
+| Narrative Location             | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-16.png) | A location specified or implied by the narrative.                                                                                                                                                       |
+| Production Location            | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-17.png) | A real place that is used to depict the Narrative Location or used for creating the production.                                                                                                         |
+| Prop                           | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-187.png)                                                                                                                       | A named object related to or interacting with characters that is implied or understood to be necessary for the narrative.                                                                               |
+| Narrative Prop                 | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-188.png)                                                                                                                       | A Prop as specified or implied by the narrative.                                                                                                                                                        |
+| Production Prop                | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-189.png)                                                                                                                       | A Depiction of the Narrative Prop.                                                                                                                                                                      |
+| Set Dressing                   | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-190.png)                                                                                                                       | Objects used on set to create and enhance the environment.                                                                                                                                              |
+| Narrative Wardrobe             | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-191.png)                                                                                                                       | The clothing for a Character in the narrative.                                                                                                                                                          |
+| Costume                        | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-192.png)                                                                                                                       | The clothing used in a Portrayal of a Character in the production.                                                                                                                                      |
+| Storyboard                     | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-193.png)                                                                                                                       | A series of images that forms a visual representation of some part of the narrative.                                                                                                                    |
+| Animated Storyboard            | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-194.png)                                                                                                                       | A moving image produced from the individual images of a Storyboard.                                                                                                                                     |
+| Creative Reference Material    | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-195.png)                                                                                                                       | Images or other material used to inform the creation of a production element, to help convey a tone or look, etc.                                                                                       |
+| Technical Reference Material   | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-196.png)                                                                                                                       | Images and other material used to inform the execution of the production.                                                                                                                               |
+| Shooting Set                   | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-197.png)                                                                                                                       | A fixed, specified Location for shooting/filming.                                                                                                                                                       |
+| Production Set                 | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-198.png)                                                                                                                       | An environment built for use on a Shooting Set.                                                                                                                                                         |
+| Scene                          | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-199.png)                                                                                                                       | A section of the Script typically defined by a unity of location or time but could be based on a different single narrative context where a montage or multiple locations make up the scene.            |
+| Narrative Scene                | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-200.png)                                                                                                                       | Taken from the narrative itself and traditionally defined by creative intent and typically a unity of time, place, action, or theme.                                                                    |
+| Production Scene               | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-201.png)                                                                                                                       | Defined either by explicit divisions in the structure of the Script, e.g., by a Slugline, or by additional capture for use in the Creative Work that is not tied to any particular Scene in the Script. |
+| Slugline                       | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-202.png)                                                                                                                       | A line within a screenplay written in all uppercase letters to draw attention to specific script information.                                                                                           |
+| Scene Number                   | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-203.png)                                                                                                                       | A number tied to the Slugline when a Script is locked.                                                                                                                                                  |
+| Scene Header                   | Future Version![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-204.png)                                                                                                         | Used when referring to the Production Scene. It is generally synonymous with Slugline and is used to divide a Script into Production Scenes.                                                            |
+| Character                      | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-18.png) | A sentient entity (usually a person but not always) in the script whose specific identity is consequential to the narrative. A Character is generally identified by a specific name.                    |
+| Concept                        | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-205.png)                                                                                                                       | An exploratory representation of something from the narrative.                                                                                                                                          |
+| Concept Art                    | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-206.png)                                                                                                                       | Images that illustrate ideas for potential depictions of elements of the creative intent.                                                                                                               |
+| Depiction                      | Future Version                                                                                                                                                                                                              | The representation of something from a narrative entity by a production entity in the Creative Work, specified or implied by the Script.                                                                |
+| Portrayal                      | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-19.png) | The Depiction of a Character.                                                                                                                                                                           |
+| Creative Work                  | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-20.png) | A uniquely identified production.                                                                                                                                                                       |
+| Identifier                     | Future Version                                                                                                                                                                                                              | An identifier uniquely identifies an entity within a particular scope.                                                                                                                                  |
+| Slate                          | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-21.png) | Used to capture key identifying information about what is being recorded on any given setup and take.                                                                                                   |
+| Scene Descriptor               | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-22.png) | An alphanumeric reference to the Production Scene being recorded.                                                                                                                                       |
+| Setup                          | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-23.png) | The unique camera configuration which encompasses a cameras geo-location, positioning, lens, or other camera settings.                                                                                  |
+| Take                           | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-24.png) | A discrete capture event with a specified beginning and end.                                                                                                                                            |
+| Slate UID                      | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-25.png) | An alphanumeric code that uniquely identifies a single clip by combining the Scene Descriptor, Setup, and Take.                                                                                         |
+| Camera Identifier              | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-26.png) | An identifier for the camera responsible for the capture, usually related to the role and responsibility of the group operating it and usually a single upper-case letter starting with A.              |
+| Camera Unit                    | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-27.png) | A group of Participants responsible for shooting some element of a Scene, e.g., Main Unit or Second Unit.                                                                                               |
+| Camera Roll                    | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-28.png) | Identifier for a group of events captured together on the same camera.                                                                                                                                  |
+| Sound Roll                     | ![A picture containing text, receipt, screenshot Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-receipt-screenshot-de-29.png) | Identifier for a group of audio events captured together on the same recording device.                                                                                                                  |
+| Shoot Date                     | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-207.png)                                                                                                                       | The date of capture.                                                                                                                                                                                    |
+| Shoot Day                      | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-208.png)                                                                                                                       | The number of the day on the shooting schedule.                                                                                                                                                         |
+| Shot                           | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-209.png)                                                                                                                       | A discrete unit of visual narrative with a specified beginning and end.                                                                                                                                 |
+| Sequence                       | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-210.png)                                                                                                                       | An ordered collection of media used to organize units of work.                                                                                                                                          |
+| Editorial Sequence             | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-211.png)                                                                                                                       | A sequence of shots linked to creative intent.                                                                                                                                                          |
+| VFX Shot                       | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-212.png)                                                                                                                       | A Shot that has been identified as requiring VFX work.                                                                                                                                                  |
+| VFX Sequence                   | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-213.png)                                                                                                                       | A unit of work made up of an ordered series of VFX shots.                                                                                                                                               |
+| Animation Shot                 | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-214.png)                                                                                                                       | A Shot that has been identified as requiring Animation work.                                                                                                                                            |
+| Animation Sequence             | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-215.png)                                                                                                                       | A unit of work made up of an ordered series of Animation shots.                                                                                                                                         |
+| Color Sequence                 | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-216.png)                                                                                                                       | A sequence of shots with color grading characteristics linked to creative intent.                                                                                                                       |
+| Sequence Chronology Descriptor | Future Version                                                                                                                                                                                                              | Describes how a series of Shots is used to generate a Sequence.                                                                                                                                         |
 
 * 1. Infrastructure Labels
 
  The following a list of infrastructure labels and icons if appropriate:
 
-| **Asset Labels**        | **Icon**                                                                                                                                                  | **Definition**                                                                                                                                                                                                                      |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Workflow Manager        | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-89.png)                                                                               | A system that manages and assigns tasks in a production.                                                                                                                                                                            |
-| Orchestration Manager   | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-90.png)                                                                               | A system that receives messages from the workflow manager to orchestrate resources to complete tasks in a Software Defined Workflow.                                                                                                |
-| Cloud                   | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-91.png)                                                                               | Processing, storage, networks, and other fundamental computing resources provisioned to be made available on demand where the user is able to deploy and run arbitrary software without managing the underlying physical resources. |
-| Public Cloud            | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-92.png)                                                                               | Cloud resources provisioned for and available to many unaffiliated organizations and individuals. It is typically owned, managed, and operated by a third party.                                                                    |
-| Private Cloud           | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-93.png)                                                                               | Cloud resources provisioned for exclusive use by a single organization. It may be owned, managed, and operated by the organization, a third party, or some combination of them                                                      |
-| Workstation             | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-94.png)                                                                               | An individual computer, typically high powered and used for the processes like editing or designing 3D models.                                                                                                                      |
-| Remote Desktop          | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-95.png)                                                                               | The use of one machine (a laptop, desktop, or thin client) to connect over a network to another, which it controls as if it were local.                                                                                             |
-| Network Infrastructure  | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-96.png)                                                                               | The underlying network hardware and software required to connect devices, production sites and services                                                                                                                             |
-| Private Network         | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-97.png)                                                                               | A network provisioned for exclusive use by a single organization. It may be owned, managed, and operated by the organization, a third party, or some combination of them.                                                           |
-| Public Network          | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-98.png)                                                                               | A network provisioned for use by the general public. for and available to many unaffiliated organizations and individuals. It is typically owned, managed, and operated by a third party.                                           |
-| Cellular Network        | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-99.png)                                                                               | A high speed radio data network using 4th, 5th or later generation cellular standards.                                                                                                                                              |
-| WiFi                    | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-100.png)                                                                              | A family of wireless local area networking protocols.                                                                                                                                                                               |
-| Ethernet                | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-101.png)                                                                              | A family of wired network technologies used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN).                                                                                            |
-| Fiber Optic             | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-102.png)                                                                              | A family of network technologies using optical fiber to provide high speed data communications over long distances with immunity to electromagnetic interference.                                                                   |
-| Edge Compute            | Future version                                                                                                                                            | A system where compute resources are placed at the edge of the cloud or network, and logically close to the user.                                                                                                                   |
-| Edge Storage            | Future version                                                                                                                                            | A system where storage resources are placed at the edge of the cloud or network, and logically close to the user. Edge storage can be used to cache data to avoid network latency in data retrieval                                 |
-| Messaging System        | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-103.png)                                                                              | A Message Bus and its associated Message Brokers.                                                                                                                                                                                   |
-| Software Service        | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-104.png)                                                                              | An Application that runs within the cloud.                                                                                                                                                                                          |
-| Microservice            | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-105.png)                                                                              | A small discrete application that performs one very specific task or operation when called. These are often coupled together to create workflows.                                                                                   |
-| Electronic Mail         | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-106.png)                                                                              | Responsible for sending and receiving electronic mail.                                                                                                                                                                              |
-| Database                | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-107.png) ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-108.png) | A system for storing, searching, and retrieving structured data.                                                                                                                                                                    |
-| Storage                 | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-109.png) ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-110.png) | A system to store and retrieve data.                                                                                                                                                                                                |
-| Software Application    | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-111.png)                                                                              | A monolithic application typically designed for a particular area of production, such script markup, picture editorial or CG modelling.                                                                                             |
-| Machine Learning        | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-112.png)                                                                              | Processes and algorithms that enable a computational system to automatically perform a task based on training data.                                                                                                                 |
-| Production Equipment    | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-113.png)                                                                              | Electronic or mechanical equipment used during the on-set or location shooting task.                                                                                                                                                |
-| Production Consumables  | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-114.png)                                                                              | A commodity or disposable item that is used during the on-set or location shooting task.                                                                                                                                            |
-| Capture Storage         | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-115.png)                                                                              | A system for storing, and retrieving data from a capture device.                                                                                                                                                                    |
-| Transient Storage       | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-116.png)                                                                              | A system for storing and transferring data between locations.                                                                                                                                                                       |
-| Working Storage         | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-117.png)                                                                              | A system for storing, and retrieving data during the production process.                                                                                                                                                            |
-| Final Storage           | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-118.png)                                                                              | A system for storing, and retrieving data after a production is complete.                                                                                                                                                           |
-| Artificial Intelligence | ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-119.png)                                                                              | The ability of a computational system to autonomously perform tasks commonly associated with intelligent beings.                                                                                                                    |
+| **Asset Labels**        | **Icon**                                                                                                                                                                                                    | **Definition**                                                                                                                                                                                                                      |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Workflow Manager        | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-217.png)                                                                                                       | A system that manages and assigns tasks in a production.                                                                                                                                                                            |
+| Orchestration Manager   | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-218.png)                                                                                                       | A system that receives messages from the workflow manager to orchestrate resources to complete tasks in a Software Defined Workflow.                                                                                                |
+| Cloud                   | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-219.png)                                                                                                       | Processing, storage, networks, and other fundamental computing resources provisioned to be made available on demand where the user is able to deploy and run arbitrary software without managing the underlying physical resources. |
+| Public Cloud            | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-220.png)                                                                                                       | Cloud resources provisioned for and available to many unaffiliated organizations and individuals. It is typically owned, managed, and operated by a third party.                                                                    |
+| Private Cloud           | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-221.png)                                                                                                       | Cloud resources provisioned for exclusive use by a single organization. It may be owned, managed, and operated by the organization, a third party, or some combination of them                                                      |
+| Workstation             | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-222.png)                                                                                                       | An individual computer, typically high powered and used for the processes like editing or designing 3D models.                                                                                                                      |
+| Remote Desktop          | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-223.png)                                                                                                       | The use of one machine (a laptop, desktop, or thin client) to connect over a network to another, which it controls as if it were local.                                                                                             |
+| Network Infrastructure  | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-224.png)                                                                                                       | The underlying network hardware and software required to connect devices, production sites and services                                                                                                                             |
+| Private Network         | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-225.png)                                                                                                       | A network provisioned for exclusive use by a single organization. It may be owned, managed, and operated by the organization, a third party, or some combination of them.                                                           |
+| Public Network          | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-226.png)                                                                                                       | A network provisioned for use by the general public. for and available to many unaffiliated organizations and individuals. It is typically owned, managed, and operated by a third party.                                           |
+| Cellular Network        | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-227.png)                                                                                                       | A high speed radio data network using 4th, 5th or later generation cellular standards.                                                                                                                                              |
+| WiFi                    | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-228.png)                                                                                                       | A family of wireless local area networking protocols.                                                                                                                                                                               |
+| Ethernet                | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-229.png)                                                                                                       | A family of wired network technologies used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN).                                                                                            |
+| Fiber Optic             | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-230.png)                                                                                                       | A family of network technologies using optical fiber to provide high speed data communications over long distances with immunity to electromagnetic interference.                                                                   |
+| Edge Compute            | Future version                                                                                                                                                                                              | A system where compute resources are placed at the edge of the cloud or network, and logically close to the user.                                                                                                                   |
+| Edge Storage            | Future version                                                                                                                                                                                              | A system where storage resources are placed at the edge of the cloud or network, and logically close to the user. Edge storage can be used to cache data to avoid network latency in data retrieval                                 |
+| Messaging System        | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-231.png)                                                                                                       | A Message Bus and its associated Message Brokers.                                                                                                                                                                                   |
+| Software Service        | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-232.png)                                                                                                       | An Application that runs within the cloud.                                                                                                                                                                                          |
+| Microservice            | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-233.png)                                                                                                       | A small discrete application that performs one very specific task or operation when called. These are often coupled together to create workflows.                                                                                   |
+| Electronic Mail         | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-234.png)                                                                                                       | Responsible for sending and receiving electronic mail.                                                                                                                                                                              |
+| Database                | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-235.png) ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-236.png) | A system for storing, searching, and retrieving structured data.                                                                                                                                                                    |
+| Storage                 | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-237.png) ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-238.png) | A system to store and retrieve data.                                                                                                                                                                                                |
+| Software Application    | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-239.png)                                                                                                       | A monolithic application typically designed for a particular area of production, such script markup, picture editorial or CG modelling.                                                                                             |
+| Machine Learning        | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-240.png)                                                                                                       | Processes and algorithms that enable a computational system to automatically perform a task based on training data.                                                                                                                 |
+| Production Equipment    | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-241.png)                                                                                                       | Electronic or mechanical equipment used during the on-set or location shooting task.                                                                                                                                                |
+| Production Consumables  | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-242.png)                                                                                                       | A commodity or disposable item that is used during the on-set or location shooting task.                                                                                                                                            |
+| Capture Storage         | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-243.png)                                                                                                       | A system for storing, and retrieving data from a capture device.                                                                                                                                                                    |
+| Transient Storage       | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-244.png)                                                                                                       | A system for storing and transferring data between locations.                                                                                                                                                                       |
+| Working Storage         | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-245.png)                                                                                                       | A system for storing, and retrieving data during the production process.                                                                                                                                                            |
+| Final Storage           | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-246.png)                                                                                                       | A system for storing, and retrieving data after a production is complete.                                                                                                                                                           |
+| Artificial Intelligence | ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-247.png)                                                                                                       | The ability of a computational system to autonomously perform tasks commonly associated with intelligent beings.                                                                                                                    |
 
 1. Best Practices
 
@@ -1028,11 +1028,11 @@ _Recommended practice: To distinguish a group from other_ lines in the diagram, 
 
  To avoid diagrams that are too wide or too tall it may be necessary to “fold” a flow. The recommended practice is that the direction of flow should be maintained. e.g., left to right before and after the fold rather than left to right up to the fold and then right to left beyond the “fold.”
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-120.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-248.png) 
 
  Figure B‑1 (a) Recommended way to fold a horizontal flow, (b) not recommended
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-121.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-249.png) 
 
  Figure B‑2 (a) Recommended way to fold a vertical flow, (b) not recommended
 
@@ -1057,7 +1057,7 @@ _Recommended practice: To distinguish a group from other_ lines in the diagram, 
 
 ![Graphical user interface
 
-Description automatically generated with medium confidence](http://movielabs-api.test/wp-content/uploads/2022/06/graphical-user-interface-description-automaticall.png) ![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-122.png) 
+Description automatically generated with medium confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/graphical-user-interface-description-automaticall-2.png) ![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-250.png) 
 
  Figure B‑3 Shape Scale
 
@@ -1232,7 +1232,7 @@ Description automatically generated with medium confidence](http://movielabs-api
 
  Like with Shapes, icons are vector graphics and can be re-sized. However, we recommend you stick with three sizes when working:
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-123.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-251.png) 
 
  Figure B‑4 Icon Scale
 
@@ -1240,19 +1240,19 @@ Description automatically generated with medium confidence](http://movielabs-api
 
  Given all shapes and icons are re-sizable, one way of thinking is to build around three sizes for shapes and icons: Flow, group, and properties. ![Graphical user interface
 
-Description automatically generated with low confidence](http://movielabs-api.test/wp-content/uploads/2022/06/graphical-user-interface-description-automaticall-1.png) 
+Description automatically generated with low confidence](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/graphical-user-interface-description-automaticall-3.png) 
 
  Figure B‑5 Shape Detail Example
 
 **Flow**: This is the smallest size and only has an icon within the shape. For example, if you have a flow of assets and want to distinguish the asset type without using a larger shape you can use the flow size. 
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-124.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-252.png) 
 
  Figure B‑6 Flow Example
 
 **Group**: This is useful when you have a group of objects that are usually the same shape, and you are showing a medium level of complexity in your workflow diagram. This size allows for an icon and a single line of description. For example, you could have a group of shapes that all have the same icon, and you want one line of text to differentiate the objects. 
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-125.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-253.png) 
 
  Figure B‑7 Group Example
 
@@ -1260,7 +1260,7 @@ Description automatically generated with low confidence](http://movielabs-api.te
 
 ![Shape
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/shape-description-automatically-generated-1.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/shape-description-automatically-generated-3.png) 
 
  Figure B‑8 Properties Example
 
@@ -1270,7 +1270,7 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ![Diagram
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-3.png) 
 
  Figure B‑9 Context Legend
 
@@ -1287,17 +1287,17 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 * **Pattern/Fill:** Whereas texture usually comes from an image file pattern or fill is more of a procedural approach. Filling shapes with colors is one example to create a theme or match a brand. You might use fill to indicate status of a given task (i.e., green complete or red indicating error). For patterns, there are all sorts of patterns like hatch or organic. Patterns can be very effective for differentiation or creating depth.
 * **OutlineFX:** OutlineFX can include things like shadow, glow, blur, etc. Not all graphic applications or platforms can generate these FX. These are great for highlighting objects or showing state and are suited for application or dashboard development.
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-126.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-254.png) 
 
  Figure B‑10 Example Basic Theme
 
 ![A picture containing text, blackboard, blue
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-text-blackboard-blue-descr.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-text-blackboard-blue-descr-1.png) 
 
  Figure B‑11 Example Blueprint Theme
 
-![](http://movielabs-api.test/wp-content/uploads/2022/06/word-image-127.png) 
+![](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/word-image-255.png) 
 
  Figure B‑12 Example App Theme
 
@@ -1358,21 +1358,21 @@ Description automatically generated](http://movielabs-api.test/wp-content/upload
 
 ![Diagram
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-1.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-4.png) 
 
 ![Diagram
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/diagram-description-automatically-generated-2.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/diagram-description-automatically-generated-5.png) 
 
 ![A picture containing letter
 
-Description automatically generated](http://movielabs-api.test/wp-content/uploads/2022/06/a-picture-containing-letter-description-automatic.png) 
+Description automatically generated](https://wordpress-540823-2632485.cloudwaysapps.com/wp-content/uploads/2022/06/a-picture-containing-letter-description-automatic-1.png) 
 
-1. <https://movielabs.com/ontology-for-media-creation/> [↑](#post-1965-footnote-ref-2)
-2. “The Evolution of Media Creation,” August 2019, <https://movielabs.com/production-technology/> [↑](#post-1965-footnote-ref-3)
-3. This is called a trapezium in British English. We make this note to avoid confusion because a trapezoidal shape with no parallel lines is called a trapezoid in British English and trapezium in America English. [↑](#post-1965-footnote-ref-4)
-4. This definition excludes the common use of ‘service’ in the production industry as a term for what a person or organization offers the production, e.g., “craft services.” [↑](#post-1965-footnote-ref-5)
-5. That is almost universally true particularly if you consider that programmable logic as running software. [↑](#post-1965-footnote-ref-6)
-6. See the Common Security Architecture for Production specification. <https://movielabs.com/production-technology/security/> [↑](#post-1965-footnote-ref-7)
-7. Unicast means a message is sent from the sender to a single recipient. Multicast means a message is sent from the sender to a defined group of recipients. Broadcast (not used in the diagram) means a message is sent from a sender to every recipient and is a particular type of multicast. [↑](#post-1965-footnote-ref-8)
-8. We tried hard to find the name for a shape of this type but have been unable to find one! [↑](#post-1965-footnote-ref-9)
+1. <https://movielabs.com/ontology-for-media-creation/> [↑](#post-2342-footnote-ref-2)
+2. “The Evolution of Media Creation,” August 2019, <https://movielabs.com/production-technology/> [↑](#post-2342-footnote-ref-3)
+3. This is called a trapezium in British English. We make this note to avoid confusion because a trapezoidal shape with no parallel lines is called a trapezoid in British English and trapezium in America English. [↑](#post-2342-footnote-ref-4)
+4. This definition excludes the common use of ‘service’ in the production industry as a term for what a person or organization offers the production, e.g., “craft services.” [↑](#post-2342-footnote-ref-5)
+5. That is almost universally true particularly if you consider that programmable logic as running software. [↑](#post-2342-footnote-ref-6)
+6. See the Common Security Architecture for Production specification. <https://movielabs.com/production-technology/security/> [↑](#post-2342-footnote-ref-7)
+7. Unicast means a message is sent from the sender to a single recipient. Multicast means a message is sent from the sender to a defined group of recipients. Broadcast (not used in the diagram) means a message is sent from a sender to every recipient and is a particular type of multicast. [↑](#post-2342-footnote-ref-8)
+8. We tried hard to find the name for a shape of this type but have been unable to find one! [↑](#post-2342-footnote-ref-9)
